@@ -4,3 +4,4 @@
 
 /whisper.cpp/build/
 /whisper.cpp/.git_/
+ggml-*.bin
