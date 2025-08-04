@@ -1,6 +1,6 @@
 /build/
 *.o
-*.exe
+YTS.exe
 
 /whisper.cpp/build/
 /whisper.cpp/.git_/

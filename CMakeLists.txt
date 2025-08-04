@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(TMP) # template
+project(YTS) # YouTubeSearch
 add_compile_options(-fdiagnostics-color=always)
 
 set(CMAKE_CXX_STANDARD 23)
