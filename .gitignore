@@ -1,7 +1,8 @@
 /build/
 *.o
-YTS.exe
+*.exe
 
 /whisper.cpp/build/
 /whisper.cpp/.git_/
 ggml-*.bin
+!/external/*.exe
