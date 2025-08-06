@@ -5,3 +5,6 @@
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)（Unlicense ライセンス）  
   YouTubeなどの動画サイトからデータを取得するためのツールです。
+
+- [ffmpeg](https://github.com/FFmpeg/FFmpeg)
+  動画や音声をエンコードするツールです
